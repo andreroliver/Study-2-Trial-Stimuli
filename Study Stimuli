@@ -1,0 +1,6 @@
+cd "C:/Users/Owner/Documents/Black-White Meta Reps/study 3/stimuli/img"
+  git init
+  git remote add origin https://github.com/andreroliver/bw-metareps-s3-stimuli.git
+  git add faceOri*s.png faceInv*s.png
+  git commit -m "add stimuli"
+git push -u origin main
